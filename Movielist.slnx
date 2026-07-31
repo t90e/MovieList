@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Movielist/Movielist.vcxproj" />
+  <Project Path="Movielist/Movielist.vcxproj" Id="ea0da08a-3c75-49ac-8bf7-8df2e9634ed3" />
 </Solution>
